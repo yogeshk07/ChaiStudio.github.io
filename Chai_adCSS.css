@@ -102,7 +102,7 @@ h1 span{
   
       transform: translateX(0px);
     color: rgba(0,0,0,0.0);
-    background-image: url(images/img86.png);
+    background-image: url(images\img86.png);
     background-repeat: repeat-x;
     -webkit-background-clip:text;
     animation: animate1 15s linear infinite;
@@ -138,7 +138,7 @@ h1 span{
    height: 430px;
    border: 0px solid red;
    float: left;
-      background-image: url(images/img117.jpg);
+      background-image: url(images\img117.jpg);
    background-size: cover;
    border-radius: 20px;
   box-shadow: 1px 1px 10px 0px black;
@@ -148,7 +148,7 @@ h1 span{
    height: 430px;
    border: 0px solid blue;
    float: right;
-   background-image: url(images/img114.jpg);
+   background-image: url(images\img114.jpg);
    background-size: cover;
    border-radius: 20px;
    box-shadow: -1px 1px 5px 0px black;
@@ -339,7 +339,7 @@ h1 span{
     height: 500px;
     width: 100%;
     border: 0px solid red;
-    background-image: linear-gradient( rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.6)), url(images/img13.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.6)), url(images\img13.jpg);
     background-size: cover;
 }
 .box pre{
